@@ -1,4 +1,4 @@
-## Hi there 👋
+## Cyberbezpieczenstwo AGH rok 1 
 
 <!--
 **korxeniowskih/korxeniowskih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
