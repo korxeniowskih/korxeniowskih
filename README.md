@@ -1,6 +1,10 @@
 ## Cyberbezpieczenstwo AGH rok 1 
 https://korxeniowskih.github.io/
 
+- Link do forka: [Fork](https://github.com/korxeniowskih/LLaMA)
+- Link do artykułu na Papers with Code: [LLaMA for cybersecurity](https://paperswithcode.com/paper/large-language-models-for-cyber-security-a)
+
+
 <!--
 **korxeniowskih/korxeniowskih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
