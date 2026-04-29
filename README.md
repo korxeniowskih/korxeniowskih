@@ -6,9 +6,8 @@ My repositories include academic and personal projects related to secure systems
 
 - Cybersecurity
 - Privacy and data protection
-- Artificial intelligence
-- Federated learning
 - Python development
+- DevSecOps
 
 ### University repositories
 
